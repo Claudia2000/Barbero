@@ -15,6 +15,6 @@ El código y el caso base fue tomado por Daniel Huaita y yo, posteriormente cada
 
 El video del desarrollo de este problema, se encuentra en este link https://youtu.be/P_XH2AXePls Se recomienda escuchar con volumen de medio a bajo.
 
-Se adjuntan imágenes:https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
-assets/interfaz.PNG
-assets/energia_barber.PNG
+Se adjuntan imágenes:https://github.com/Claudia2000/Barbero/blob/master/README.md/asset
+- assets/interfaz.PNG
+- assets/energia_barber.PNG
