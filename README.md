@@ -14,3 +14,7 @@ Se desarrolló además la parte gráfica.
 El código y el caso base fue tomado por Daniel Huaita y yo, posteriormente cada uno desarrolló distintos casos.
 
 El video del desarrollo de este problema, se encuentra en este link https://youtu.be/P_XH2AXePls Se recomienda escuchar con volumen de medio a bajo.
+
+Se adjuntan imágenes:
+assets/interfaz.PNG
+assets/energia_barber.PNG
